@@ -1,0 +1,15 @@
+# Binarios compilados de Go
+*.exe
+*.out
+/log-anomaly-detector
+bin/
+
+# Salidas generadas por el programa
+out/
+
+# Datos sensibles
+.env
+*.local.log
+
+# Sistema
+.DS_Store
